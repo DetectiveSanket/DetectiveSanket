@@ -29,39 +29,75 @@
 
 
 
- <div class="tech">
-    <img src="https://img.icons8.com/color/58/000000/html-5--v1.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/css3.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/javascript--v1.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/nodejs.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/react-native.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/bootstrap.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/mongodb.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/express.png" alt="">
-    <img src="https://img.icons8.com/color/58/000000/github.png" alt="">
-    <img src="https://img.icons8.com/?size=58&id=CIAZz2CYc6Kc&format=png&color=000000" alt="">
-    
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 50px; height: 50px; margin-right: 18px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 50px; height: 50px; margin-right: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 50px; height: 50px; margin-right: 5px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="width: 50px; height: 50px; margin-right: 5px;"/>
+ <!-- Tech Stack Section -->
+<div class="tech" style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    margin-top: 10px;
+">
+
+    <!-- Core Web Tech -->
+   <img src="https://img.icons8.com/color/58/html-5--v1.png" alt="HTML">
+    <img src="https://img.icons8.com/color/58/css3.png" alt="CSS">
+    <img src="https://img.icons8.com/color/58/javascript--v1.png" alt="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+         style="width: 50px" alt="TypeScript">
+
+    <!-- MERN Stack -->
+  <img src="https://img.icons8.com/color/58/nodejs.png" alt="Node.js">
+    <img src="https://img.icons8.com/color/58/react-native.png" alt="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+         style="width: 50px" alt="Express">
+    <img src="https://img.icons8.com/color/58/mongodb.png" alt="MongoDB">
+
+    <!-- Styling -->
+  <img src="https://img.icons8.com/color/58/bootstrap.png" alt="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwindcss-plain.svg" 
+         style="width: 50px" alt="Tailwind">
+
+    <!-- DevOps / Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+         style="width: 55px" alt="AWS">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="width: 50px" alt="Kubernetes">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         style="width: 55px" alt="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+         style="width: 50px" alt="Linux">
+
+    <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+         style="width: 55px" alt="MySQL">
+    <img src="https://img.icons8.com/?size=58&id=CIAZz2CYc6Kc&format=png" alt="Redis">
+    <img src="https://seeklogo.com/images/P/pinecone-logo-6F9E6DD3B0-seeklogo.png" 
+         style="width: 55px" alt="Pinecone">
+
+    <!-- AI & LLM Tools -->
+   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
+         style="width: 50px; border-radius: 6px;" alt="LangChain">
+    <img src="https://raw.githubusercontent.com/langgraph-ai/.github/main/profile/langgraph.png" 
+         style="width: 50px" alt="LangGraph">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.png" 
+         style="width: 50px" alt="LLM / OpenAI">
+    <img src="https://seeklogo.com/images/G/google-gemini-logo-9E2CFEBE1F-seeklogo.png" 
+         style="width: 50px" alt="Google Gemini">
+    <img src="https://n8n.io/favicon.png" style="width: 50px" alt="n8n Automation">
+    <img src="https://seeklogo.com/images/N/nlp-logo-86EB32D401-seeklogo.png" 
+         style="width: 50px" alt="NLP / RAG">
+
+    <!-- Other Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px" alt="Git">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+         style="width: 50px" alt="GitHub">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="width: 50px" alt="Postman">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         style="width: 50px" alt="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         style="width: 50px" alt="Python">
+
 </div>
+
 
 
 
