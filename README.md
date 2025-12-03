@@ -1,19 +1,29 @@
-<h1> Hi 👋, I'm Sanket Talekar (Full Stack [ MERN ] Developer ) </h1>
+<h1> Hi 👋, I'm Sanket Talekar </h1>
 
-   <div class="about">
-       <h3> 
-         <img src="https://img.icons8.com/?size=20&id=Bk6gtCN65dXG&format=png&color=000000" alt="">
-           I'm a Full-Stack Developer, handling both the visible parts of websites and the technical stuff behind them. My goal is to become a coding expert and help others. I enjoy making projects 
-              that solve real problems and making my code easy to understand. Let's work together and make progress! 🌟
-       </h3>
-   </div>
+<div class="about">
+  <h3>
+    <img src="https://img.icons8.com/?size=20&id=Bk6gtCN65dXG&format=png&color=000000" alt="">
+    I'm a Full Stack MERN Developer and GenAI Engineer who enjoys building things that actually solve problems. 
+    I work across frontend, backend, cloud, and AI automation. My focus is on creating clean, scalable systems 
+    and integrating LLMs into real-world applications using LangChain, LangGraph, RAG, and vector databases. <br><br>
 
-   <div class="about" style="display: flex; align-items: center; gap: 5px;" >
-        <h3>   
-          <img src="https://img.icons8.com/?size=30&id=fkXojbEAWAzS&format=png&color=000000" alt="">
-           <span>💻</span>I'm well-versed in a variety of programming languages and technologies, including: 
-        </h3>
-    </div> 
+   I’ve built AI-powered platforms, legal assistants, interview simulators, and full MERN-stack applications. 
+    I’m comfortable working with both system design and user experience, and I like turning complex ideas into 
+    simple, working products. <br><br>
+
+   I work with React, Node, Express, MongoDB, Redis, Pinecone, AWS, Docker, Firebase, and tools like Gemini, n8n, 
+    and Kafka. I’m always learning and always building something new. <br><br>
+
+   If you enjoy tech, AI, or development in general, feel free to connect. I love sharing ideas and learning from others. 🌟
+  </h3>
+</div>
+
+<div class="about" style="display: flex; align-items: center; gap: 5px;">
+  <h3>
+    <img src="https://img.icons8.com/?size=30&id=fkXojbEAWAzS&format=png&color=000000" alt="">
+    <span>💻</span> I'm well-versed in a variety of programming languages and technologies, including:
+  </h3>
+</div>
 
 
 
