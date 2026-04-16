@@ -26,6 +26,9 @@
 </div>
 
 
+
+
+
  <!-- Tech Stack Section -->
 <div class="tech" style="
     display: flex;
@@ -35,82 +38,110 @@
     margin-top: 10px;
 ">
 
-    <!-- Core Web Tech -->
+ <!-- Core Web Tech -->
    <img src="https://img.icons8.com/color/58/html-5--v1.png" alt="HTML">
     <img src="https://img.icons8.com/color/58/css3.png" alt="CSS">
     <img src="https://img.icons8.com/color/58/javascript--v1.png" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width: 50px" alt="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+         style="width: 50px" alt="TypeScript">
 
     <!-- MERN Stack -->
-    <img src="https://img.icons8.com/color/58/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/58/nodejs.png" alt="Node.js">
     <img src="https://img.icons8.com/color/58/react-native.png" alt="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="width: 50px" alt="Express">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+         style="width: 50px" alt="Express">
     <img src="https://img.icons8.com/color/58/mongodb.png" alt="MongoDB">
 
     <!-- Styling -->
-    <img src="https://img.icons8.com/color/58/bootstrap.png" alt="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwindcss-plain.svg" style="width: 50px" alt="Tailwind">
+  <img src="https://img.icons8.com/color/58/bootstrap.png" alt="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwindcss-plain.svg" 
+         style="width: 50px" alt="Tailwind">
 
     <!-- DevOps / Cloud -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 55px" alt="AWS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+         style="width: 55px" alt="AWS">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="width: 50px" alt="Kubernetes">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="width: 55px" alt="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="width: 50px" alt="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         style="width: 55px" alt="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+         style="width: 50px" alt="Linux">
 
     <!-- Databases -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="width: 55px" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+         style="width: 55px" alt="MySQL">
     <img src="https://img.icons8.com/?size=58&id=CIAZz2CYc6Kc&format=png" alt="Redis">
-    <img src="https://seeklogo.com/images/P/pinecone-logo-6F9E6DD3B0-seeklogo.png" style="width: 55px" alt="Pinecone">
+    <img src="https://seeklogo.com/images/P/pinecone-logo-6F9E6DD3B0-seeklogo.png" 
+         style="width: 55px" alt="Pinecone">
 
     <!-- AI & LLM Tools -->
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" style="width: 50px; border-radius: 6px;" alt="LangChain">
-    <img src="https://raw.githubusercontent.com/langgraph-ai/.github/main/profile/langgraph.png" style="width: 50px" alt="LangGraph">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.png" style="width: 50px" alt="LLM / OpenAI">
-    <img src="https://seeklogo.com/images/G/google-gemini-logo-9E2CFEBE1F-seeklogo.png" style="width: 50px" alt="Google Gemini">
+   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
+         style="width: 50px; border-radius: 6px;" alt="LangChain">
+    <img src="https://raw.githubusercontent.com/langgraph-ai/.github/main/profile/langgraph.png" 
+         style="width: 50px" alt="LangGraph">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.png" 
+         style="width: 50px" alt="LLM / OpenAI">
+    <img src="https://seeklogo.com/images/G/google-gemini-logo-9E2CFEBE1F-seeklogo.png" 
+         style="width: 50px" alt="Google Gemini">
     <img src="https://n8n.io/favicon.png" style="width: 50px" alt="n8n Automation">
-    <img src="https://seeklogo.com/images/N/nlp-logo-86EB32D401-seeklogo.png" style="width: 50px" alt="NLP / RAG">
+    <img src="https://seeklogo.com/images/N/nlp-logo-86EB32D401-seeklogo.png" 
+         style="width: 50px" alt="NLP / RAG">
 
     <!-- Other Tools -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px" alt="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="width: 50px" alt="GitHub">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px" alt="Git">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+         style="width: 50px" alt="GitHub">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="width: 50px" alt="Postman">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 50px" alt="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width: 50px" alt="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         style="width: 50px" alt="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         style="width: 50px" alt="Python">
 
 </div>
 
 
-<h3>Connect with me</h3>
 
-<div>
-  <a href="https://www.instagram.com/sanket_talekar1717/">
-    <img src="https://img.icons8.com/color/38/000000/instagram-new.png" alt="Instagram">
+ <h3>Connect with me</h3>
+
+<div >
+   <a href="https://www.instagram.com/sanket_talekar1717/">
+      <img src="https://img.icons8.com/color/38/000000/instagram-new.png" alt="">
+   </a>
+
+   <a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
+    <img src="https://img.icons8.com/color/38/000000/linkedin.png" alt="">
   </a>
 
-  <a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
-    <img src="https://img.icons8.com/color/38/000000/linkedin.png" alt="LinkedIn">
-  </a>
+ <a href="sankettalekar897@gmail.com">
+    <img src="https://img.icons8.com/color/38/000000/email.png" alt="">
+ </a>   
 
-  <a href="mailto:sankettalekar897@gmail.com">
-    <img src="https://img.icons8.com/color/38/000000/email.png" alt="Email">
-  </a>
+<a href="https://www.geeksforgeeks.org/user/sankettalhufl/">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.geeksforgeeks.org/user/sankettalhufl/"    height="30" width="40" />
+</a>
 
-  <a href="https://www.geeksforgeeks.org/user/sankettalhufl/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="GeeksforGeeks" />
-  </a>
+<a href="https://leetcode.com/u/sankettalekar896/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sankettalekar896/" height="30" width="40" />
+</a>
 
-  <a href="https://leetcode.com/u/sankettalekar896/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" />
-  </a>
+</div>
+  
+ 
+
+</div>      
+
+
+<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;" >
+
+   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DetectiveSanket)](https://github.com/DetectiveSanket)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket)](https://git.io/streak-stats)
+
+## Coding time in the last month
+
+[Click here to view](https://github.com/DetectiveSanket)
+     
 </div>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top: 16px;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DetectiveSanket&show_icons=true&count_private=true&theme=darcula&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=DetectiveSanket&layout=compact&theme=darcula&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket&theme=darcula&hide_border=true&background=FFFFFF00" />
-</div>
-
-### :bar_chart: [Coding time in the last month](https://github.com/DetectiveSanket)
+### :bar_chart: [Coding time in the last month](https://github.com/Sanketniza)
 
 <!--START_SECTION:waka-->
 
@@ -122,8 +153,15 @@ Markdown        4 hrs 56 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 text            2 hrs 57 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.80 %
 ```
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.instagram.com/sanket_talekar1717/">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="buy me a coffee" />
-  </a>
+
+
+
+
+<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;">
+  <br>
+  <br>
+
+   <a href="https://www.instagram.com/sanket_talekar1717/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </div>
+
+
