@@ -127,18 +127,10 @@
   
  
 
-</div>      
-
-
-<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;" >
-
-   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DetectiveSanket)](https://github.com/DetectiveSanket)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket)](https://git.io/streak-stats)
-
-## Coding time in the last month
-
-[Click here to view](https://github.com/DetectiveSanket)
-     
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top: 16px;">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DetectiveSanket&show_icons=true&count_private=true&theme=darcula&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=DetectiveSanket&layout=compact&theme=darcula&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket&theme=darcula&hide_border=true&background=FFFFFF00" />
 </div>
 
 ### :bar_chart: [Coding time in the last month](https://github.com/Sanketniza)
