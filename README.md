@@ -369,12 +369,6 @@ Text            02 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/DetectiveSanket/DetectiveSanket/output/github-contribution-grid-snake-dark.svg)
-
 </p>
 
 ---
