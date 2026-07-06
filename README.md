@@ -1,159 +1,434 @@
-<h1> Hi 👋, I'm Sanket Talekar </h1>
+<!-- ===================================================== -->
+<!--                    GitHub Profile README              -->
+<!-- ===================================================== -->
 
-<div class="about">
-  <h3>
-    <img src="https://img.icons8.com/?size=20&id=Bk6gtCN65dXG&format=png&color=000000" alt="">
-    I'm a Full Stack MERN Developer and GenAI Engineer who enjoys building things that actually solve problems. 
-    I work across frontend, backend, cloud, and AI automation. My focus is on creating clean, scalable systems 
-    and integrating LLMs into real-world applications using LangChain, LangGraph, RAG, and vector databases. <br><br>
+<p align="center">
+  <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Sanket Talekar Banner"/>
+</p>
 
-   I’ve built AI-powered platforms, legal assistants, interview simulators, and full MERN-stack applications. 
-    I’m comfortable working with both system design and user experience, and I like turning complex ideas into 
-    simple, working products. <br><br>
+<h1 align="center">
+Hi 👋, I'm Sanket Talekar
+</h1>
 
-   I work with React, Node, Express, MongoDB, Redis, Pinecone, AWS, Docker, Firebase, and tools like Gemini, n8n, 
-    and Kafka. I’m always learning and always building something new. <br><br>
+<h3 align="center">
+Full Stack MERN Developer • GenAI Engineer • AI Automation • Building Production-Ready AI Applications
+</h3>
 
-   If you enjoy tech, AI, or development in general, feel free to connect. I love sharing ideas and learning from others. 🌟
-  </h3>
-</div>
-
-<div class="about" style="display: flex; align-items: center; gap: 5px;">
-  <h3>
-    <img src="https://img.icons8.com/?size=30&id=fkXojbEAWAzS&format=png&color=000000" alt="">
-    <span>💻</span> I'm well-versed in a variety of programming languages and technologies, including:
-  </h3>
-</div>
-
-
-
-
-
- <!-- Tech Stack Section -->
-<div class="tech" style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-    margin-top: 10px;
-">
-
- <!-- Core Web Tech -->
-   <img src="https://img.icons8.com/color/58/html-5--v1.png" alt="HTML">
-    <img src="https://img.icons8.com/color/58/css3.png" alt="CSS">
-    <img src="https://img.icons8.com/color/58/javascript--v1.png" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-         style="width: 50px" alt="TypeScript">
-
-    <!-- MERN Stack -->
-  <img src="https://img.icons8.com/color/58/nodejs.png" alt="Node.js">
-    <img src="https://img.icons8.com/color/58/react-native.png" alt="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-         style="width: 50px" alt="Express">
-    <img src="https://img.icons8.com/color/58/mongodb.png" alt="MongoDB">
-
-    <!-- Styling -->
-  <img src="https://img.icons8.com/color/58/bootstrap.png" alt="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwindcss-plain.svg" 
-         style="width: 50px" alt="Tailwind">
-
-    <!-- DevOps / Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-         style="width: 55px" alt="AWS">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="width: 50px" alt="Kubernetes">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-         style="width: 55px" alt="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-         style="width: 50px" alt="Linux">
-
-    <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-         style="width: 55px" alt="MySQL">
-    <img src="https://img.icons8.com/?size=58&id=CIAZz2CYc6Kc&format=png" alt="Redis">
-    <img src="https://seeklogo.com/images/P/pinecone-logo-6F9E6DD3B0-seeklogo.png" 
-         style="width: 55px" alt="Pinecone">
-
-    <!-- AI & LLM Tools -->
-   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
-         style="width: 50px; border-radius: 6px;" alt="LangChain">
-    <img src="https://raw.githubusercontent.com/langgraph-ai/.github/main/profile/langgraph.png" 
-         style="width: 50px" alt="LangGraph">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.png" 
-         style="width: 50px" alt="LLM / OpenAI">
-    <img src="https://seeklogo.com/images/G/google-gemini-logo-9E2CFEBE1F-seeklogo.png" 
-         style="width: 50px" alt="Google Gemini">
-    <img src="https://n8n.io/favicon.png" style="width: 50px" alt="n8n Automation">
-    <img src="https://seeklogo.com/images/N/nlp-logo-86EB32D401-seeklogo.png" 
-         style="width: 50px" alt="NLP / RAG">
-
-    <!-- Other Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 50px" alt="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-         style="width: 50px" alt="GitHub">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="width: 50px" alt="Postman">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         style="width: 50px" alt="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         style="width: 50px" alt="Python">
-
-</div>
-
-
-
- <h3>Connect with me</h3>
-
-<div >
-   <a href="https://www.instagram.com/sanket_talekar1717/">
-      <img src="https://img.icons8.com/color/38/000000/instagram-new.png" alt="">
-   </a>
-
-   <a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
-    <img src="https://img.icons8.com/color/38/000000/linkedin.png" alt="">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=DetectiveSanket">
+    <img src="https://komarev.com/ghpvc/?username=DetectiveSanket&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 
- <a href="sankettalekar897@gmail.com">
-    <img src="https://img.icons8.com/color/38/000000/email.png" alt="">
- </a>   
+  <a href="https://github.com/DetectiveSanket?tab=followers">
+    <img src="https://img.shields.io/github/followers/DetectiveSanket?label=Followers&style=flat&color=blue" />
+  </a>
+
+  <a href="https://github.com/DetectiveSanket">
+    <img src="https://img.shields.io/github/stars/DetectiveSanket?affiliations=OWNER&style=flat&color=yellow" />
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm a **Full Stack MERN Developer** and **Generative AI Engineer** from India who enjoys building software that solves real-world problems.
+
+I specialize in developing intelligent applications by combining scalable backend systems, modern frontend development, cloud technologies, and Large Language Models.
+
+My work focuses on transforming AI ideas into production-ready applications using technologies like **LangChain**, **LangGraph**, **RAG pipelines**, **vector databases**, and **LLMs**.
+
+Over the past few months, I've built AI legal assistants, AI interview platforms, MERN applications, automation workflows, and developer tools while continuously improving my software engineering skills.
+
+I enjoy designing clean architectures, writing maintainable code, and learning new technologies that help build better products.
+
+---
+
+# 💡 What I'm Currently Working On
+
+- ⚖️ Building AI-powered legal applications
+- 🤖 Developing intelligent AI Agents using LangGraph
+- 🧠 Exploring Multi-Agent Systems
+- 📚 Improving Data Structures & Algorithms
+- ☁️ Learning scalable backend architecture
+- 🚀 Building production-ready Full Stack applications
+- 🔍 Looking for Full Stack Developer & AI Engineer opportunities
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" />
+
+<img
+width="45"
+src="https://seeklogo.com/images/P/pinecone-logo-6F9E6DD3B0-seeklogo.png"
+/>
+
+</p>
+
+---
+
+## 🤖 AI / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-5E5CE6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+
+<p>
+
+<img
+width="45"
+src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
+/>
+
+<img
+width="45"
+src="https://raw.githubusercontent.com/langgraph-ai/.github/main/profile/langgraph.png" alt="LangGraph"
+/>
+
+<img
+width="45"
+src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.png" alt="OpenAI"
+/>
+
+<img
+width="45"
+src="https://seeklogo.com/images/G/google-gemini-logo-9E2CFEBE1F-seeklogo.png" alt="Pinecone"
+/>
+
+<img
+width="45"
+src="https://n8n.io/favicon.png" alt="Gemini"
+/>
+
+</p>
+
+
+### Experience With
+
+- LangChain
+- LangGraph
+- RAG Pipelines
+- Prompt Engineering
+- Context Engineering
+- AI Agents
+- Vector Embeddings
+- Pinecone
+- Google Gemini
+- OpenAI APIs
+- AI Workflow Automation
+- LLM Application Development
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman" />
+
+</p>
+
+---
+
+# 🌟 Connect With Me
+
+<p align="left">
+
+<a href="mailto:sankettalekar896@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sanket_talekar1717/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sankettalekar896/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <a href="https://www.geeksforgeeks.org/user/sankettalhufl/">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.geeksforgeeks.org/user/sankettalhufl/"    height="30" width="40" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/sankettalekar896/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sankettalekar896/" height="30" width="40" />
-</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ⚖️ NyayaSathi — AI Constitution
+
+> AI-powered legal assistant using RAG, LangChain, Gemini, Redis and Pinecone.
+
+**Tech:** React • Node.js • MongoDB • Redis • LangChain • Pinecone
+
+🔗 **Repository:** https://github.com/DetectiveSanket/NyayaSathi---AI-constitution
+
+🌐 **Live Demo:** https://nyaya-sathi-ai-constitution.vercel.app/
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Interview Application
+
+> AI-powered interview preparation platform that simulates technical interviews, evaluates candidate performance, and provides intelligent feedback using Large Language Models.
+
+**✨ Key Features**
+- 🎙️ AI-powered mock interviews
+- 🧠 Intelligent interview evaluation
+- 📊 Performance analytics & feedback
+- 💬 Voice & text-based interview support
+- 🤖 LLM-powered question generation
+- 📈 Detailed interview reports
+
+**🛠️ Tech Stack:** React • Node.js • Express • MongoDB • PostgreSQL • Redux • LangChain • LangGraph • Gemini API • Hugging Face
+
+🔗 **Repository:** https://github.com/DetectiveSanket/AI-Interview-Application
+
+🌐 **Live Demo:** https://app-interview-ai-aa743779.base44.app/
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏥 Healthcare Diagnostic Platform
+
+A healthcare platform for diagnostic test booking, authentication, reports and AI-powered assistance.
+
+### Features
+
+- 🔐 Authentication
+- 📅 Appointment Booking
+- 🤖 AI Chatbot
+- 📂 Report Management
+- 💳 Payment Integration
+
+### Tech
+
+`React`
+
+`Express`
+
+`MongoDB`
+
+`Firebase`
+
+`Redis`
+
+</td>
+
+<td width="50%">
+
+⭐ Internship Project
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DetectiveSanket&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DetectiveSanket&show_icons=true&count_private=true&theme=darcula&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=DetectiveSanket&layout=compact&theme=darcula&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DetectiveSanket&show_icons=true&count_private=true&theme=darcula&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket&theme=darcula&hide_border=true&background=FFFFFF00" />
 
 </div>
-  
- 
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top: 16px;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DetectiveSanket&show_icons=true&count_private=true&theme=darcula&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=DetectiveSanket&layout=compact&theme=darcula&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DetectiveSanket&theme=darcula&hide_border=true&background=FFFFFF00" />
-</div>
+---
 
-### :bar_chart: [Coding time in the last month](https://github.com/Sanketniza)
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DetectiveSanket&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DetectiveSanket&theme=github_dark"/>
+
+</p>
+
+---
+
+---
+
+# ⌨️ Coding Activity
+
+### 📊 Coding Time (Last Month)
 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      53 hrs 51 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.19 %
-Cpp             51 hrs 47 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.21 %
-Other           10 hrs 8 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.63 %
-Markdown        4 hrs 56 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 %
-text            2 hrs 57 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.80 %
+JavaScript      53 hrs 51 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.19 %
+Cpp             51 hrs 47 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.21 %
+Other           10 hrs 08 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.63 %
+Markdown        04 hrs 56 mins  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 %
+Text            02 hrs 57 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.80 %
 ```
 
+<!--END_SECTION:waka-->
 
+---
 
+# 📈 GitHub Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DetectiveSanket&theme=github-dark&hide_border=true"/>
+</p>
 
-<div align="center" class="about" style="display: flex; align-items: center; gap: 5px;">
-  <br>
-  <br>
+---
 
-   <a href="https://www.instagram.com/sanket_talekar1717/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/DetectiveSanket/DetectiveSanket/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+---
+
+# 💼 Open To
+
+- 🤖 AI Engineer
+- 💻 Full Stack Developer
+- ⚙️ Backend Developer
+- ☁️ Cloud & AI Automation
+- 🚀 Open Source Collaboration
+
+---
+
+# 💬 Quote I Believe In
+
+> *"Great software isn't built by knowing every technology—it's built by solving real problems."*
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:sankettalekar896@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanket-talekar-94087a263">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sankettalekar896/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/sankettalhufl/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sanket_talekar1717/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories.
+
+### Thanks for visiting my profile! 👋
+
+*"Always building. Always learning. Always improving."*
+
 </div>
-
-
