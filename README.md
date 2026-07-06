@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Sanket Talekar Banner"/>
+  <img src="github.png" width="100%" alt="Sanket Talekar Banner"/>
 </p>
 
 <h1 align="center">
